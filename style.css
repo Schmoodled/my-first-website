@@ -23,3 +23,24 @@ a {
     color: white;
     text-decoration: none;
 }
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap: 18px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
