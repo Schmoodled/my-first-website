@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.section-one, 
+.footer {
+    color: white;
+    background-color: #324258;
+}
+
+.section-two,
+.section-four {
+    background-color: white;
+}
+
+.section-three {
+    background-color: #E5E7EB;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
