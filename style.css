@@ -19,6 +19,7 @@ body {
     background-color: #E5E7EB;
 }
 
+/* section formatting */
 a {
     color: white;
     text-decoration: none;
@@ -35,7 +36,7 @@ ul {
 .header {
     display: flex;
     justify-content: space-between;
-    margin: 0 50px;
+    margin: 18px 50px;
 }
 
 .header-content {
@@ -43,6 +44,22 @@ ul {
     align-items: center;
     justify-content: space-between;
     margin: 50px;
+}  
+
+/* section two formatting*/
+.section-two-content {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.info {
+    margin: 18px 0;
+    max-width: 200px;
+}
+
+.section-two {
+    text-align: center;
 }
 
 
