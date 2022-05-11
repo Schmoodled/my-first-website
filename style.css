@@ -34,13 +34,15 @@ ul {
 
 .header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    margin: 0 50px;
 }
 
 .header-content {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    margin: 50px;
 }
 
 
