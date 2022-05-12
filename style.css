@@ -132,8 +132,16 @@ h2 {
 
 h4 {
     padding: 0;
-    margin: -8px 20px 0 0;
+    margin: -30px 20px 0 0;
     align-self: flex-end;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.section-three p {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
 }
 
 /* section four formatting */
