@@ -49,6 +49,7 @@ ul {
     align-items: center;
     justify-content: space-between;
     margin: 50px;
+    flex-wrap: wrap;
 }  
 
 /* section two formatting */
@@ -56,6 +57,7 @@ ul {
     display: flex;
     justify-content: center;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 .info {
