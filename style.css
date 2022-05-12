@@ -81,3 +81,20 @@ h4 {
     margin: -8px 20px 0 0;
     align-self: flex-end;
 }
+
+/* section four formatting */
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 70px;
+}
+
+.card {
+    background-color: #6dcf7c;
+    padding: 15px 80px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
