@@ -79,6 +79,16 @@ h1{
     max-width: 800px;
 }
 
+.container-content button {
+    background-color: #3882F6;
+    padding: 4px 20px;
+    color: #f9faf8;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 0;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+}
+
 /* section two formatting */
 .section-two-content {
     display: flex;
@@ -142,6 +152,16 @@ h4 {
     display: flex;
     align-items: center;
     gap: 100px;
+}
+
+.card button {
+    background-color: #3882F6;
+    padding: 4px 20px;
+    color: #f9faf8;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 2px solid #e5e7eb;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
 }
 
 /* section five formatting */
