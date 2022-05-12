@@ -4,10 +4,15 @@ body {
     margin: 0;
 }
 
+p {
+    font-size: 18px;
+}
+
 .section-one, 
 .footer {
-    color: white;
+    font-size: 18px;
     background-color: #426b48;
+    color: #e5e7eb;
 }
 
 .section-two,
@@ -21,8 +26,9 @@ body {
 
 /* section one formatting */
 a {
-    color: white;
+    color: #e5e7eb;
     text-decoration: none;
+    font-size: 18px;
 }
 
 li img{
@@ -50,7 +56,14 @@ ul {
     justify-content: space-between;
     margin: 50px;
     flex-wrap: wrap;
+    font-size: 18px;
 }  
+
+h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+}
 
 /* section two formatting */
 .section-two-content {
@@ -67,6 +80,12 @@ ul {
 
 .section-two {
     text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
 }
 
 /* section three formatting */
@@ -91,7 +110,7 @@ h4 {
     justify-content: center;
     align-items: center;
     padding: 50px 70px;
-    color: white;
+    color: #f9faf8;
 }
 
 .card {
