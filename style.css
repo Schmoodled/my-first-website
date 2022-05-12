@@ -51,7 +51,7 @@ ul {
     margin: 50px;
 }  
 
-/* section two formatting*/
+/* section two formatting */
 .section-two-content {
     display: flex;
     justify-content: center;
@@ -67,3 +67,17 @@ ul {
     text-align: center;
 }
 
+/* section three formatting */
+.section-three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 90px;
+}
+
+h4 {
+    padding: 0;
+    margin: -8px 20px 0 0;
+    align-self: flex-end;
+}
