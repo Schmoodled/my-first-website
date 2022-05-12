@@ -89,12 +89,20 @@ h4 {
     justify-content: center;
     align-items: center;
     padding: 50px 70px;
+    color: white;
 }
 
 .card {
-    background-color: #6dcf7c;
+    background-color: #3882F6;
     padding: 15px 80px;
     display: flex;
     align-items: center;
     gap: 100px;
+}
+
+/* section five formatting */
+
+.footer {
+    text-align: center;
+    padding: 12px 0;
 }
