@@ -88,6 +88,15 @@ h2 {
     color: #1f2937;
 }
 
+.info img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(57, 177, 83, 0.3);
+}
+
 /* section three formatting */
 .section-three {
     display: flex;
