@@ -19,10 +19,15 @@ body {
     background-color: #E5E7EB;
 }
 
-/* section formatting */
+/* section one formatting */
 a {
     color: white;
     text-decoration: none;
+}
+
+li img{
+    width: 20px;
+    height: auto;
 }
 
 ul {
@@ -61,5 +66,4 @@ ul {
 .section-two {
     text-align: center;
 }
-
 
